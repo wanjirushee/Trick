@@ -1,0 +1,15 @@
+let p =prompt("what's your name");
+alert(`Awww! ${p} Nice Name🤩`);
+let a=prompt("Give me a nick name to me!");
+alert(`${a} is suits to me ${p}😍` );
+alert("I will show you some magic😜");
+let random=prompt("Enter any random number");
+alert("Ok,Do what i say ....do the following ");
+alert("Assume any number in your mind ..keep it secret🤫");
+alert("Doubled the number you assumed😉");
+alert(` Add ${random} to the result`);
+alert("Now half the result ...");
+alert(" Then subtracted your assumed number from result ");
+let magic= random/2;
+alert(`Hey ${p} you have ${magic} in your mind😃`);
+alert("Hope you like this.. 🌟 🌟 🌟 🌟 ");
